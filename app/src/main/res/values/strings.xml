@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EAControl</string>
+    <string name="app_tagline">Android client + MT5 bridge for controlling an EA</string>
+</resources>
